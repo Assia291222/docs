@@ -1,3 +1,4 @@
+![image](https://github.com/github/docs/assets/167619529/7d665207-999d-4ec5-8040-f16bf6667563)
 ---
 title: 'About {% data variables.product.prodname_projects_v2 %}'
 intro: '{% data variables.product.prodname_projects_v2 %} is an adaptable, flexible tool for planning and tracking work on {% data variables.product.company_short %}.'
